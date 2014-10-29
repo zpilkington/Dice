@@ -1,12 +1,12 @@
 /*
- * This thingy was made by Zach Pilkington
+* This thingy was made by Zach Pilkington
  */
 
 package dice;
 
 /**
  *
- * @author zach
+ * @author zach  he is awsome* 
  */
 public class Dice {
 
